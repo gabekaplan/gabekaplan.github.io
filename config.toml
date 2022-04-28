@@ -66,6 +66,11 @@ url = "https://github.com/gabekaplan"
 icon = "fa-brands fa-github"
 
 [[extra.social]]
+platform = "discord"
+url = "https://discordapp.com/968895999298912266"
+icon = "fa-solid fa-discord"
+
+[[extra.social]]
 platform = "email"
 url = "mailto:gabriel.rkap@gmail.com"
 icon = "fa-regular fa-envelope"

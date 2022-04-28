@@ -61,6 +61,11 @@ date = "%d %b, %Y"
 
 # Define socials
 [[extra.social]]
+platform = "linkedin"
+url = "https://www.linkedin.com/in/gabriel-kaplan-239021239/"
+icon = "fa-brands fa-linkedin"
+
+[[extra.social]]
 platform = "github"
 url = "https://github.com/gabekaplan"
 icon = "fa-brands fa-github"

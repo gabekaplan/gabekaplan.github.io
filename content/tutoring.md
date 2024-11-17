@@ -19,8 +19,4 @@ For 1st Year University (Chemistry only): $75 / hour
 
 ### Scheduling
 
-Sessions can be scheduled weekly or on a by-need contact basis by the student.
-
-### Contact
-
-Feel free to reach out to me at my email at me@gabrielkaplan.ca or by phone at +1 (647) 987-4527. I am additionally available by text on SMS, iMessage or WhatsApp.
+Sessions can be scheduled weekly or on an as-needed basis, depending on the student’s preferences.

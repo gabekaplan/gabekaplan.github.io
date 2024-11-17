@@ -1,0 +1,55 @@
++++
+[menu.main]
+  name = "About"
+  weight = 10
++++
+
+{{< image frame="true" width="11em" src="/gabriel.png" >}}
+
+# Words
+
+## Words
+
+### Words
+
+The businessmen drink my blood
+Like the kids in art school said they would
+And I guess I'll just begin again
+You say, "Can we still be friends?"
+If I was scared, I would
+And if I was bored, you know I would
+And if I was yours, but I'm not
+All the kids have always known
+That the emperor wears new clothes
+But they bow down to him anyway
+Because it's better than being alone
+If I was scared, I would
+And if I was bored, you know I would
+And if I was yours, but I'm not
+Now you're knocking at my door
+Saying, "Please, come out with us tonight"
+But I would rather be alone
+Than pretend I feel alright
+If the businessmen drink my blood
+Like the kids in art school said they would
+Then I guess I'll just begin again
+You say, "Can we still be friends?"
+If I was scared, I would
+And if I was pure, you know I would
+And if I was yours, but I'm not
+Now I'm ready to start
+If I was scared, I would
+And if I was pure, you know I would
+And if I was yours, but I'm not
+Now I'm ready to start
+Now I'm ready to start
+I would rather be wrong
+Than live in the shadows of your song
+My mind is open wide
+And now I'm ready to start
+Now I'm ready to start
+My mind is open wide
+Now I'm ready to start
+Not sure you'll open the door
+To step out into the dark
+Now I'm ready

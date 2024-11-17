@@ -1,0 +1,34 @@
+baseURL = "https://gabrielkaplan.ca"
+languageCode = "en-ca"
+title = "Gabriel's Home"
+theme = "notrack"
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume.pdf"
+  weight = 30
+
+[params]
+  author = "Gabriel Kaplan"
+  # siteHeading = "Custom header" # defaults to author
+  # favicon = "/favicon.ico" # Adds a small icon next to the page title in a tab
+  # showBlogLatest = false
+  # mainSections = ["blog"]
+  # showTaxonomyLinks = false
+  # nBlogLatest = 4 # number of blog post om the home page
+  # blogLatestHeading = "My writing"
+  footer = "© Gabriel Kaplan 2024"
+
+[params.social]
+  github = "gabekaplan"
+  linkedin = "gabekaplan"
+  email = "me@gabrielkaplan.ca"
+
+# [taxonomies]
+#   year = "year"
+#   month = "month"
+#   tags = "tags"
+#   categories = "categories"
+#
+# [permalinks]
+#   blog = "/blog/:year/:month/:slug"

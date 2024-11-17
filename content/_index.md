@@ -6,7 +6,7 @@
 
 {{< image frame="true" width="11em" float="right" src="/gabriel.png" >}}
 
-##About me
+## About me
 
 I am a student at McMaster University studying biochemistry with the ultimate goal of pursuing medicine.
 In addition to my studies, I am a leader in the McMaster Jewish community with my local Hillel.

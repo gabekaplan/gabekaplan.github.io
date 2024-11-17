@@ -4,6 +4,6 @@
   weight = 10
 +++
 
-{{< image frame="true" width="11em" src="/gabriel.png" >}}
+{{< image frame="true" width="11em" float="right" src="/gabriel.png" >}}
 
 About me...

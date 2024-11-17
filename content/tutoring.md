@@ -5,6 +5,7 @@ title = "Tutoring"
 +++
 
 I provide one-on-one tutoring for high school students in math and science.
+I also offer tutoring for 1st year university in chemistry subjects only.
 My sessions are tailored to each student's needs,
 focusing on building a strong understanding of the material and developing problem-solving skills.
 I work with students to clarify concepts, prepare for tests and exams, and build confidence in their abilities.

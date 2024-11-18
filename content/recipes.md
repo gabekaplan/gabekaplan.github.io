@@ -1,5 +1,6 @@
 +++
 title = "Recipes"
+sitemap.disable = true
 +++
 
 The following is a collection of recipes I frequently use, enjoy!

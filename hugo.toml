@@ -2,6 +2,7 @@ baseURL = "https://gabrielkaplan.ca"
 languageCode = "en-ca"
 title = "Gabriel's Home"
 theme = "notrack"
+enableRobotsTXT = true
 
 [[menu.main]]
   name = "Resume"

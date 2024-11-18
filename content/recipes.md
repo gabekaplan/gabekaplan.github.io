@@ -147,7 +147,8 @@ Makes one large pot of soup
 - Preheat Oven to 375° F, use convection bake if possible
 - Prepare a baking tray with nonstick baking parchment on top
 - Layer chocolate and vanilla as you want on tray and place in oven for
-- Bake for 15-20 minutes, if cookies don’t look ready then bake for additional 5-10 minutes
+- Bake for 15-20 minutes, if cookies don’t look ready then bake for additional
+  5-10 minutes
 
 ---
 

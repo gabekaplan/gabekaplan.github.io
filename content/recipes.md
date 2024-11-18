@@ -148,3 +148,42 @@ Makes one large pot of soup
 - Prepare a baking tray with nonstick baking parchment on top
 - Layer chocolate and vanilla as you want on tray and place in oven for
 - Bake for 15-20 minutes, if cookies don’t look ready then bake for additional 5-10 minutes
+
+---
+
+## Shabbat
+
+### The Best Bread Machine Challah
+
+This recipe yields 2 pounds of dough or 2 medium-size challahs. They are the
+best I have ever had. My machine calls for the wet ingredients and salt to be
+placed in the pan first, followed by the remaining dry ingredients. Using a
+finger, make a well in the dry ingredients and add the yeast. Press dough cycle.
+
+Servings: 3 medium challahs
+
+**Ingredients**
+
+- 5 large egg yolks
+- ⅓ cup oil
+- 1½ cups water
+- 4¼-5 cups all-purpose or bread flour
+- ½ cup plus 1 generous tablespoon sugar
+- 1⅛ teaspoon salt
+- 1 tablespoon active dry yeast
+- 1 large egg, lightly beaten
+- sesame seeds or poppy seeds
+
+**Instructions**
+
+1. Place the egg yolks, oil, water, flour, sugar, salt, and yeast in the bread
+   machine pan, according to manufacturer’s directions. Process the ingredients
+   in the dough cycle (90 minutes). Remove immediately when the machine beeps.
+2. Preheat oven to 350 degrees. Divide the dough in half. Divide each piece into
+   3 sections.
+3. Roll each section into a long strand. Lay the three strands in front of you.
+   Pinch the top ends together. Braid the dough and pinch the bottom ends
+   together. Place on parchment-lined or lightly greased baking sheets. Repeat
+   with remaining dough. Let the challot rise covered, for 30 minutes
+4. Brush the challah with beaten egg. Sprinkle with sesame seeds, poppy seeds,
+   or a mixture of both. Bake for 30 minutes. Cool on a wire rack.

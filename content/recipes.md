@@ -2,6 +2,8 @@
 title = "Recipes"
 +++
 
+The following is a collection of recipes I frequently use, enjoy!
+
 ## Smoothies
 
 ## Dinners
@@ -39,5 +41,55 @@ Optional
 
 ## Soups
 
+### Chabad McMaster Squash Soup
+
+Makes one large pot of soup.
+
+Ingredients  
+• Carrots x5  
+• Onion, medium x1 
+• Squash x2  
+• Cinnamon, 2 equivalents  
+• Nutmeg, 1 equivalent  
+• Salt  
+• Ginger root
+
+Instructions
+1. Sauté onions and carrots while preparing squash.
+2. Add squash and water to pot
+3. Add salt, cinnamon, and nutmeg
+4. Let cook / boil for ~40 until soft
+5. Purée / blend
+6. Add ginger
+
 ## Baking
 
+### Black & White Muffin Top Cookies
+
+Cookie Base Ingredients  
+• 4 cups white flour  
+• 3 eggs, extra large; or 4 large)  
+• 1/2 cup oil  
+• 3/4 cup liquid  
+• 1 and 1/2 cups brown sugar  
+• 1 tbsp vanilla extract  
+• 2 tsp baking powder
+
+*  for liquid use water or a juice for more flavour; e.g., grape juice, orange juice
+
+Cookie Base; Vanilla
+• Mix together dry ingredients in a bowl  
+• Add together wet ingredients on top and mix well until there are no clumps
+
+Chocolate  
+• Mix 1 tbsp of hot water and 1/4 cup of chocolate powder  
+• Separate out half of the cookie base mixture and add to chocolate
+
+Vanilla; Optional  
+• Add chocolate chips to remaining half of cookie base
+
+Baking Instructions  
+• Preheat Oven to 375° F, use convection bake if possible  
+• Prepare a baking tray with nonstick baking parchment on top  
+• Layer chocolate and vanilla as you want on tray and place in oven for  
+• Bake for 15-20 minutes, if cookies don’t look ready then bake for additional 5-10 minutes

@@ -64,6 +64,10 @@ Instructions
 
 ## Baking
 
+### Strawberry Shortcake
+
+[Link to Online Recipe](https://drivemehungry.com/easy-sponge-cake/#recipe)
+
 ### Black & White Muffin Top Cookies
 
 Cookie Base Ingredients  

@@ -26,10 +26,10 @@ Nutritional Facts; per 473 mL
 • Calories: 385  
 • Total Fat: 15.28 g  
 | • Saturated Fat: 1.25 g  
-• Sodium: 152 mg
-• Total Carbohydrate: 50.48 g
-| • Dietary Fibre: 7.58 g
-| • Sugars: 29.13 g
+• Sodium: 152 mg  
+• Total Carbohydrate: 50.48 g  
+| • Dietary Fibre: 7.58 g  
+| • Sugars: 29.13 g  
 • Protein: 9.18 g
 
 ## Dinners

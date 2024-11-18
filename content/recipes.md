@@ -23,7 +23,7 @@ Honey Garlic Sauce
 • Honey  
 • Corn Starch
 
-Instructions  
+Instructions
 1. Add oil to pan and turn on heat to Medium High  
 2. Seperately cook ramen noodles in a pot  
 3. Add green beans, broccoli, and carrots to pan  
@@ -32,9 +32,9 @@ Instructions
 6. Add cooked ramen noodles to pan  
 7. Mix sauce ingredients together and mix well, then add into stir fry, cook for additional 5 minutes
 
-Optional
-• While cooking vegetables, cut boneless chicken thighs cut into small pieces
-• Fry chicken on Medium High for 20-25 minutes in honey garlic sauce instead of oil
+Optional  
+• While cooking vegetables, cut boneless chicken thighs cut into small pieces  
+• Fry chicken on Medium High for 20-25 minutes in honey garlic sauce instead of oil  
 • Mix chicken with the vegetable stir fry and enjoy!
 
 ## Soups

@@ -68,14 +68,14 @@ Instructions
 
 Cookie Base Ingredients  
 • 4 cups white flour  
-• 3 eggs, extra large; or 4 large)  
+• 3 eggs, extra large; or 4 large  
 • 1/2 cup oil  
 • 3/4 cup liquid  
 • 1 and 1/2 cups brown sugar  
 • 1 tbsp vanilla extract  
 • 2 tsp baking powder
 
-*  for liquid use water or a juice for more flavour; e.g., grape juice, orange juice
+\*  for liquid use water or a juice for more flavour; e.g., grape juice, orange juice
 
 Cookie Base; Vanilla
 • Mix together dry ingredients in a bowl  

@@ -23,7 +23,12 @@ Instructions
 2. Blend for 1-2 minutes until all desired consistency is reached
 
 Nutritional Facts; per 473 mL  
-• Calories: 385
+• Calories: 385  
+• Total Fat: 15.28 g  
+>• Saturated Fat: 1.25 g  
+• Sodium: 152 mg
+
+
 
 ## Dinners
 

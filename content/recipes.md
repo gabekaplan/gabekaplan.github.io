@@ -6,6 +6,25 @@ The following is a collection of recipes I frequently use, enjoy!
 
 ## Smoothies
 
+### Almond Butter Breakfast Smoothie
+
+Serving Size: 2 cups; 473 mL
+
+Ingredients  
+• 1 cup strawberries, frozen  
+• 1 banana, frozen or fresh  
+• 3/4 cup almond milk, vanilla or plain  
+• 1/4 cup (1 scoop) vanilla protein powder
+• 1 tbsp hemp hearts  
+• 1 tbsp almond butter
+
+Instructions
+1. Add all ingredients to blender
+2. Blend for 1-2 minutes until all desired consistency is reached
+
+Nutritional Facts; per 473 mL  
+• Calories: 385
+
 ## Dinners
 
 ### Ramen Stir Fry
@@ -43,7 +62,7 @@ Optional
 
 ### Chabad McMaster Squash Soup
 
-Makes one large pot of soup.
+Makes one large pot of soup
 
 Ingredients  
 • Carrots x5  

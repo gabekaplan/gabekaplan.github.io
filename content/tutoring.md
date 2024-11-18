@@ -5,7 +5,7 @@ title = "Tutoring"
 +++
 
 I provide one-on-one tutoring for high school students in math and science.
-I also offer tutoring for 1st year university in chemistry subjects only.
+I also offer tutoring for 1st year university in chemistry and physics subjects only.
 My sessions are tailored to each student's needs,
 focusing on building a strong understanding of the material and developing problem-solving skills.
 I work with students to clarify concepts, prepare for tests and exams, and build confidence in their abilities.
@@ -16,7 +16,7 @@ For Grade 9: $45 / hour
 
 For Grade 10-12: $55 / hour
 
-For 1st Year University (Chemistry only): $75 / hour
+For 1st Year University (Chemistry and Physics only): $75 / hour
 
 ### Scheduling
 

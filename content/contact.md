@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 [menu.main]
-  weight = 40
+  weight = 50
 +++
 
 {{< social >}}

@@ -20,4 +20,8 @@ For 1st Year University (Chemistry and Physics only): $75 / hour
 
 ### Scheduling
 
-Sessions can be scheduled weekly or on an as-needed basis, depending on the student’s preferences.
+Sessions can be scheduled by the student weekly or on an as-needed basis, depending on the student’s preferences.
+
+### Location
+
+Tutoring sessions are online through Zoom or Google Meets.

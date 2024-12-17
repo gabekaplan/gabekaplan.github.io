@@ -18,10 +18,20 @@ For Grade 10-12: $55 / hour
 
 For 1st Year University (Chemistry and Physics only): $75 / hour
 
+### Location
+
+Tutoring sessions are online through Zoom or Google Meets.
+
 ### Scheduling
 
 Sessions can be scheduled by the student weekly or on an as-needed basis, depending on the student’s preferences.
 
-### Location
+#### Book an Intake
 
-Tutoring sessions are online through Zoom or Google Meets.
+If you are a prospective student, you can schedule an intake meeting here:
+https://cal.gabrielkaplan.ca/intake
+
+#### Book a Session
+
+Please schedule tutoring sessions here:
+https://cal.gabrielkaplan.ca/tutor

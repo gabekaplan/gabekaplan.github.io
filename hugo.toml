@@ -9,6 +9,11 @@ enableRobotsTXT = true
   url = "/resume.pdf"
   weight = 40
 
+[[menu.main]]
+  name = "Booking"
+  url = "https://cal.gabrielkaplan.ca"
+  weight = 21
+
 [params]
   author = "Gabriel Kaplan"
   # siteHeading = "Custom header" # defaults to author

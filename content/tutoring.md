@@ -14,7 +14,7 @@ I work with students to clarify concepts, prepare for tests and exams, and build
 
 For Grade 9: $45 / hour
 
-For Grade 10-12: $55 / hour
+For Grade 10-12: $60 / hour
 
 For 1st Year University (Chemistry and Physics only): $75 / hour
 

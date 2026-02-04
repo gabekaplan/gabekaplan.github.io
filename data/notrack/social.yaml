@@ -520,7 +520,7 @@ orcid:
 # 066: Cal
 cal:
   weight: 66
-  title: Booking
   prefix: https://cal.com/
+  title: Booking
   icon:
-    class: fa-solid fa-calendar
+    class: fas fa-solid fa-calendar

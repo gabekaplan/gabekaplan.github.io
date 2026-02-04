@@ -29,6 +29,7 @@ enableRobotsTXT = true
   github = "gabekaplan"
   linkedin = "gabekaplan"
   email = "me@gabrielkaplan.ca"
+  cal = "gkaplan"
 
 # [taxonomies]
 #   year = "year"

@@ -79,6 +79,27 @@ _Optional_
 - Fry chicken on Medium High for 20-25 minutes in honey garlic sauce instead of oil
 - Mix chicken with the vegetable stir fry and enjoy!
 
+### Deconstructed Wonton Soup
+
+**Ingredients for Mixture**
+
+- 1/2 lbs lean ground beef
+- finely slices green onion
+- finely sliced Nappa cabbage
+- 1/2 tbsp chicken bouillon
+- 1 tsp brown sugar
+- 2 tbsp grated ginger
+- 1 tbsp rice vinegar
+- 1 tbsp soy sauce
+- 1 tbsp sesame oil
+- 1 tbsp water (for sauce)
+- 2 tsp vegan oyster sauce
+- 2 tbsp hoisin sauce
+
+**Other Ingredients**
+- 1/3 cup water (to add at the end)
+- Wonton wrappers
+
 ---
 
 ## Soups
@@ -112,7 +133,18 @@ Makes one large pot of soup
 
 ### Strawberry Shortcake
 
-[Link to Online Recipe](https://drivemehungry.com/easy-sponge-cake/#recipe)
+[Link to online sponge cake recipe](https://drivemehungry.com/easy-sponge-cake/#recipe)
+
+**Instructions**
+
+1. Bake sponge cake as described in a round pan.
+2. Cut cake in half into 2 layers.
+3. Whip dairy whipping cream with sugar and vanilla extract.\*
+4. Apply whipped cream between cake layers.
+5. Finely dice 1-2 cups of strawberries and fill between cake layers.
+6. Apply whipped cream to outside of cake, decorate with strawberries.
+> \* *Optional: replace vanilla with  coffee lacquer or alternative.* 
+
 
 ### Black & White Muffin Top Cookies
 
@@ -149,6 +181,10 @@ Makes one large pot of soup
 - Layer chocolate and vanilla as you want on tray and place in oven for
 - Bake for 15-20 minutes, if cookies don’t look ready then bake for additional
   5-10 minutes
+
+### Buni's Orange Blueberry Loaf
+
+*Coming soon*
 
 ---
 

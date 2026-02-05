@@ -1,5 +1,6 @@
 +++
 title = "Spreadsheets"
+sitemap.disable = true
 +++
 
 In my spare time I have made a number of spreadsheet templates which are for sale.

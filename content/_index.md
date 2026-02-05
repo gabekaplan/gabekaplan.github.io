@@ -8,13 +8,15 @@
 
 ## About me
 
-I am a student at McMaster University studying biochemistry with the ultimate
-goal of pursuing medicine.
-In addition to my studies, I am a leader in the McMaster Jewish community with
-my local Hillel, where I am involved in advocacy and community work.
-I am also passionate about helping students reach their potential as a tutor for
-high school math and science courses.
+I am a biochemistry student at McMaster University with plans to pursue family 
+medicine. 
+Alongside my studies, I volunteer in clinical settings and have research 
+experience, including work on a published systematic review. 
+I am also involved in student leadership and advocacy through Hillel McMaster, 
+where I work on programming and community initiatives. 
+In addition, I tutor high school math and science, which allows me to teach and 
+mentor students from a range of backgrounds. 
+Outside of school, I enjoy reading fantasy fiction, photography, tabletop 
+role-playing games, and staying active through climbing and biking.
 
-In my personal life, I enjoy reading fantasy fiction, watching anime, and
-playing table-top roleplaying games like Dungeons and Dragons.
-I like to stay active by climbing and biking.
+[Read More](https://gabrielkaplan.ca/readmore)

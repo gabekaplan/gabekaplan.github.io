@@ -521,6 +521,6 @@ orcid:
 cal:
   weight: 66
   prefix: https://cal.com/
-  title: Booking
+  title: " Booking"
   icon:
     class: fas fa-solid fa-calendar

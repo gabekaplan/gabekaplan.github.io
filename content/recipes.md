@@ -9,6 +9,8 @@ The following is a collection of recipes I frequently use, enjoy!
 
 ---
 
+<!-- Copy paste symbols: ½ ⅓ ¼ ⅛ ¾ -->
+
 ## Smoothies
 
 ### Almond Butter Breakfast Smoothie
@@ -19,8 +21,8 @@ Serving Size: 2 cups; 473 mL
 
 - 1 cup strawberries, frozen
 - 1 banana, frozen or fresh
-- 3/4 cup almond milk, vanilla or plain
-- 1/4 cup (1 scoop) vanilla protein powder
+- ¾ cup almond milk, vanilla or plain
+- ¼ cup (1 scoop) vanilla protein powder
 - 1 tbsp hemp hearts
 - 1 tbsp almond butter
 
@@ -48,13 +50,13 @@ Nutritional Facts; per 473 mL
 
 **Ingredients**
 
-- Broccoli
-- Sugar Snap Peas or Green Beans
-- Celery
+- Gai Lan (alternative: Broccoli)
+- Bok-choy
+- Green Beans
 - Spring Onions
 - Carrots
 - Peppers
-- Ramen Noodles; I use Costco Rice Ramen
+- Ramen Noodles (I use Costco Rice Ramen)
 
 **Honey Garlic Sauce**
 
@@ -63,30 +65,33 @@ Nutritional Facts; per 473 mL
 - Honey
 - Corn Starch
 
+1. For sauce: mix equal parts soy sauce and honey, heat in microwave.
+2. Add in minced garlic and 1 tbsp corn starch, mix well.
+
 **Instructions**
 
-1. Add oil to pan and turn on heat to Medium High
+1. Add oil to pan and turn on to Medium-High
 2. Seperately cook ramen noodles in a pot
-3. Add green beans, broccoli, and carrots to pan
-4. Cook on Medium-High for 20-25 minutes
-5. Add in peppers, celery, and spring onion and cook for ~5 more minutes
+3. Add green beans, gai lan, bok-choy, and carrots to pan
+4. Cook for 20-25 minutes
+5. Add in peppers and spring onion and cook for ~5 more minutes
 6. Add cooked ramen noodles to pan
-7. Mix sauce ingredients together and mix well, then add into stir fry, cook for additional 5 minutes
+7. Add sauce ingredients together and mix well, then add into stir fry, cook for additional 5 minutes
 
 _Optional_
 
 - While cooking vegetables, cut boneless chicken thighs cut into small pieces
-- Fry chicken on Medium High for 20-25 minutes in honey garlic sauce instead of oil
+- Fry chicken on Medium-High for 20-25 minutes in honey garlic sauce instead of oil
 - Mix chicken with the vegetable stir fry and enjoy!
 
 ### Deconstructed Wonton Soup
 
 **Ingredients for Mixture**
 
-- 1/2 lbs lean ground beef
+- ½ lbs lean ground beef
 - finely slices green onion
 - finely sliced Nappa cabbage
-- 1/2 tbsp chicken bouillon
+- ½ tbsp chicken bouillon
 - 1 tsp brown sugar
 - 2 tbsp grated ginger
 - 1 tbsp rice vinegar
@@ -97,7 +102,7 @@ _Optional_
 - 2 tbsp hoisin sauce
 
 **Other Ingredients**
-- 1/3 cup water (to add at the end)
+- ⅓ cup water (to add at the end)
 - Wonton wrappers
 
 ---
@@ -152,9 +157,9 @@ Makes one large pot of soup
 
 - 4 cups white flour
 - 3 eggs, extra large; or 4 large
-- 1/2 cup oil
-- 3/4 cup liquid\*
-- 1 and 1/2 cups brown sugar
+- ½ cup oil
+- ¾ cup liquid\*
+- 1 ½ cups brown sugar
 - 1 tbsp vanilla extract
 - 2 tsp baking powder
 
@@ -167,7 +172,7 @@ Makes one large pot of soup
 
 **Chocolate**
 
-- Mix 1 tbsp of hot water and 1/4 cup of chocolate powder
+- Mix 1 tbsp of hot water and ¼ cup of chocolate powder
 - Separate out half of the cookie base mixture and add to chocolate
 
 **Vanilla** (_Optional_)
@@ -184,7 +189,29 @@ Makes one large pot of soup
 
 ### Buni's Orange Blueberry Loaf
 
-*Coming soon*
+
+**Ingredients**
+
+- 1 ½ cups sugar
+- 2 sticks sweet margerine
+- 4 large eggs
+- 2 ½ cups flour
+- 1 tsp baking powder, mixed with a dash of salt
+- juice and zest from 1 large Navel orange 
+- ¼ - 1 cup milk
+- 1 pint blueberries
+<!-- originally: ⅓ cup orange juice; 2 tsp orange rind -->
+
+**Instructions**
+
+1. Preheat oven to 325 degrees.
+2. Beat margerine with sugar and milk.
+3. Add eggs one at a time and beat well.
+4. Add orange juice and zest
+5. Add flour slowly, stir until combined and smooth.
+6. Add flour-coated blueberries to the batter (flour prevents sinking).
+7. Add extra milk as needed if batter is dry.
+8. Pour batter into greased loaf tin, bake approx. 45 minutes.
 
 ---
 
@@ -203,10 +230,10 @@ Servings: 3 medium challahs
 
 - 5 large egg yolks
 - ⅓ cup oil
-- 1½ cups water
-- 4¼-5 cups all-purpose or bread flour
+- 1 ½ cups water
+- 4 ¼ - 5 cups all-purpose or bread flour
 - ½ cup plus 1 generous tablespoon sugar
-- 1⅛ teaspoon salt
+- 1 ⅛ teaspoon salt
 - 1 tablespoon active dry yeast
 - 1 large egg, lightly beaten
 - sesame seeds or poppy seeds

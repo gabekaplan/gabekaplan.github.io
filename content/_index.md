@@ -8,15 +8,6 @@
 
 ## About me
 
-I am a biochemistry student at McMaster University with plans to pursue family 
-medicine. 
-Alongside my studies, I volunteer in clinical settings and have research 
-experience, including work on a published systematic review. 
-I am also involved in student leadership and advocacy through Hillel McMaster, 
-where I work on programming and community initiatives. 
-In addition, I tutor high school math and science, which allows me to teach and 
-mentor students from a range of backgrounds. 
-Outside of school, I enjoy reading fantasy fiction, photography, tabletop 
-role-playing games, and staying active through climbing and biking.
+I am a graduate of McMaster University’s Biochemistry program (BHSc) with plans to pursue family medicine. I currently work full-time as a Clinical Trials Coordinator at Hamilton Allergy, where I am involved in clinical research while continuing on my path toward medicine and medical school. Alongside my work, I am completing courses in Applied Clinical Research toward a certificate. I also have academic research experience, including work on a published systematic review. Outside of work, I tutor high school math and science, which allows me to teach and mentor students from a range of backgrounds. In my free time, I enjoy reading fantasy fiction, photography, tabletop role-playing games, and staying active through biking.
 
 [Read More](https://gabrielkaplan.ca/readmore)

@@ -14,7 +14,7 @@ Customization fee: $15 / hour
 
 ### Template 1: Spendings and Earnings Accounting
 
-{{< image frame="false" width="40em" src="/spreadsheet1.png" caption="Image of entries section for Spendings" >}}
-{{< image frame="false" width="40em" src="/spreadsheet2.png" caption="Image of metrics and calculations for Spendings" >}}
-{{< image frame="false" width="40em" src="/spreadsheet3.png" caption="Image of entries and calculations for Earnings" >}}
-{{< image frame="false" width="40em" src="/spreadsheet4.png" caption="Image of Dues for keeping track of owed money" >}}
+{{< image frame="false" width="40em" src="/spreadsheets/IMG1.png" caption="Image of entries section for Spendings" >}}
+{{< image frame="false" width="40em" src="/spreadsheets/IMG2.png" caption="Image of metrics and calculations for Spendings" >}}
+{{< image frame="false" width="40em" src="/spreadsheets/IMG3.png" caption="Image of entries and calculations for Earnings" >}}
+{{< image frame="false" width="40em" src="/spreadsheets/IMG4.png" caption="Image of Dues for keeping track of owed money" >}}

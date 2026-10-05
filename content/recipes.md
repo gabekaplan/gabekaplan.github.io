@@ -5,7 +5,9 @@ sitemap.disable = true
 
 The following is a collection of recipes I frequently use, enjoy!
 
-*Disclaimer: While many of these recipes are my own, not all of them are. Most recipes were either from someone else, online, or modified and refined by me. Attributions are given in the recipe name or listed right below if applicable. Recipes from online are directly linked where applicable.*
+*Disclaimer: Many of these recipes are my own or adapted. Other recipes are from 
+someone else or online. Attributions are given in the recipe name or listed right 
+below, if applicable. Recipes from online are directly linked where applicable.*
 
 {{< toc >}}
 
@@ -17,8 +19,9 @@ The following is a collection of recipes I frequently use, enjoy!
 ## Component Recipes
 
 Some of the following recipes require components that I make at home.
-If you see an ingredient listed in **{{< component >}}blue{{< /component >}}**, it refers to one of these components.
-Feel free to make these as required or substitute for an equivalent!
+If you see an ingredient listed in **{{< component >}}blue{{< /component >}}**, 
+it refers to one of these components. Feel free to make these as required or 
+substitute for an equivalent!
 
 ### Pesto Sauce
 
@@ -80,7 +83,7 @@ Nutritional Facts; per 473 mL
 
 ### No Powder Fruit Breakfast Smoothie
 
-Serving Size: 2 cups (473 mL)
+Serving Size: 2 cups (473 mL)  
 Makes: 4 Servings
 
 **Ingredients**
@@ -186,9 +189,9 @@ Makes: 4 Servings
 
 ## Soups
 
-### Chabad McMaster Squash Soup
+### *Chabad McMaster* Squash Soup
 
-Makes one large pot of soup
+Makes one large pot of soup.
 
 **Ingredients**
 
@@ -308,7 +311,7 @@ Makes one large pot of soup
 
 ### Buni's Orange Blueberry Loaf
 
-*This recipe is from a Holocaust survivor, the grandmother of a friend of mine.*
+*Recipe from a Holocaust survivor*
 
 **Ingredients**
 

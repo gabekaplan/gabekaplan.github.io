@@ -32,14 +32,16 @@ substitute for an equivalent!
 - 5 tbsp pine nuts (cheaper alternative: walnuts)\*
 - 3 large cloves garlic
 - ½ cup olive oil
+- a splash of lemon juice
 - salt to taste (I use Herbamare from Costco)
 - Trader Joe's nutritional yeast to taste (start with ~3-4 tbsp)
 > \* Note: The Costco pack of pine nuts is very reasonably priced compared to typical grocery stores.
 
 **Instructions**
 
-1. Blend all ingredients together in a food processor until desired consistency is reached
-2. Add further ingredient quantities to taste and blend
+1. Blend basil, nuts, and garlic together in a food processor
+2. Add in olive oil and lemon juice, blend until desired consistency is reached
+2. Add salt and nutritional yeast to taste and blend
 
 ### Easy Sushi Rice
 

@@ -1,5 +1,6 @@
 +++
 title = "Recipes"
+type = "recipes"
 sitemap.disable = true
 +++
 
@@ -309,7 +310,7 @@ Makes one large pot of soup.
 4. Bake for 15-20 minutes, if cookies don’t look ready then bake for additional
   5-10 minutes
 
-### Buni's Orange Blueberry Loaf
+### *Buni's* Orange Blueberry Loaf
 
 *Recipe from a Holocaust survivor*
 

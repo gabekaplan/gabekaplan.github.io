@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+    <style>
+        .recipes-print {
+            display: none;
+        }
+
+        @media print {
+            @page {
+                margin: 0.75in;
+            }
+
+            html,
+            body {
+                font-size: 12pt !important;
+                line-height: 1.2 !important;
+            }
+
+            header,
+            footer {
+                display: none !important;
+            }
+
+            main,
+            article {
+                margin: 0 !important;
+                padding: 0 !important;
+                width: auto !important;
+                max-width: none !important;
+            }
+
+            h1 {
+                font-size: 20pt !important;
+                margin-top: 0 !important;
+            }
+
+            h2 {
+                font-size: 18pt !important;
+                margin-top: 0 !important;
+                break-before: page;
+                page-break-before: always;
+            }
+
+            h3 {
+                font-size: 14pt !important;
+                margin-top: 0 !important;
+                break-before: page;
+                page-break-before: always;
+            }
+
+            hr {
+                display: none !important;
+            }
+        }
+    </style>
+
+    <main class="recipes-screen">
+        <article>
+            {{ if in site.Params.mainSections .Page.Section }}
+            <h1 class="page-title blog">{{ .Title }}</h1>
+            {{ else }}
+            <h1 class="page-title">{{ .Title }}</h1>
+            {{ end }}
+
+            {{ .Content }}
+        </article>
+    </main>
+
+    <main class="recipes-print">
+        <article>
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </article>
+    </main>
+
+{{ end }}
